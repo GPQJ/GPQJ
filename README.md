@@ -13,7 +13,7 @@ A **front-end developer**  passionate about creating clean, user-friendly, and a
 
  **🤝 I’m excited to team up on:**
 
-- **Front-end projects** with a focus on interactivity and responsive design.
+- **Front-end projects**
 - **Full-stack applications** that integrate APIs and emphasize user-centric functionality.
 - Opportunities where I can grow, such as internships or mentorship-focused collaborations, to deepen my skills and learn from others in the field.
 
