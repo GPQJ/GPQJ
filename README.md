@@ -8,7 +8,7 @@ A **front-end developer**  passionate about creating clean, user-friendly, and a
 
 **🌱 Currently, I’m leveling up my backend skills with:**
 
-- **Node.js** for server-side development.
+- **Next.js** for server-side development.
 - **Python** for web scraping, data analysis, and automation.
 
  **🤝 I’m excited to team up on:**
